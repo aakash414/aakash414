@@ -3,7 +3,8 @@
 <h3 align="center">A passionate frontend developer from Kochi, India</h3>
 
 - 🌱 I’m currently learning **PHP**
--  
+- Interested in Web#
+  
 ## Tech Stack
 <div align="center">
   <p align="center">
