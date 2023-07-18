@@ -2,7 +2,8 @@
 
 
   <div align="left"><h2>An aspiring full-stack developer 🚀</h2></div>
-  
+
+  <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" height="200" alt="animated hello"/>
 
 - 🌱 I’m currently learning Ruby on Rails  
   
@@ -13,7 +14,8 @@
 - ❓ Ask me about anything related to MERN   
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
+
 
 ![](https://komarev.com/ghpvc/?username=aakash414&style=for-the-badge)
 
