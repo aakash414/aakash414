@@ -14,7 +14,7 @@
 - ❓ Ask me about anything related to MERN   
   
 
-- ⚡ Fun fact: I use tabs over spaces
+- 📫 Reach me at aakashpr975@gmail.com
 
 
 ![](https://komarev.com/ghpvc/?username=aakash414&style=for-the-badge)
