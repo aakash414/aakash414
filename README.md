@@ -5,7 +5,7 @@
 
   <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" height="200" alt="animated hello"/>
 
-- 🌱 I’m currently learning ThreeJs  
+- 🌱 I’m currently learning Redis  
   
 
 - 🔰 Web3 Enthusiast  
@@ -45,7 +45,7 @@
 <div align="center">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nextjs,replit,c,cpp,ruby,ipfs,solidity,firebase,nodejs,mongodb,php,express,mysql&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nextjs,unity,c,cpp,svelte,ipfs,solidity,firebase,nodejs,mongodb,php,express,mysql&perline=10" />
   </a>
   </p>
 </div>
