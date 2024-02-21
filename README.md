@@ -21,7 +21,7 @@
 
 ## Connect with me  
 <div align="left">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/aakash414" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/aakash-p-r-398290231" target="_blank">
