@@ -1,7 +1,7 @@
 ![Aakash (1)](https://github.com/aakash414/aakash414/assets/67820270/d072d1f9-f8db-44e4-9206-68279c2b68b6)
 
 
-  <div align="left"><h2>An aspiring full-stack developer 🚀</h2></div>
+  <div align="left"><h2>An aspiring full-stack developer </h2></div>
 
   <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" height="200" alt="animated hello"/>
 
