@@ -1,18 +1,13 @@
 ![Aakash (1)](https://github.com/aakash414/aakash414/assets/67820270/d072d1f9-f8db-44e4-9206-68279c2b68b6)
 
 
-  <div align="left"><h2>An aspiring full-stack developer </h2></div>
+  <div align="left"><h2>Full-Stack developer </h2></div>
 
   <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" height="200" alt="animated hello"/>
 
-- 🌱 I’m currently learning Redis  
-  
-
-- 🔰 Web3 Enthusiast  
-  
-
-- ❓ Ask me about anything related to MERN   
-  
+- 🌱 Actively integrating DevOps practices and tooling into my development workflow  
+- 🔰 Passionate about Web3 and exploring decentralized technologies  
+- ❓ Specializing in the MERN stack—always open to collaborative challenges  
 
 - 📫 Reach me at aakashpr975@gmail.com
 
