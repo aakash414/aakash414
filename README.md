@@ -44,5 +44,5 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakash414&layout=compact&theme=dracula&hide_border=true)
 
-![streaks](https://github-readme-streak-stats.herokuapp.com/?user=aakash414&theme=monokai-metallian&hide_border=true)
+![streaks](https://github-readme-streak-stats-eight.vercel.app/?user=aakash414&theme=dracula&hide_border=true&short_numbers=true)
 
