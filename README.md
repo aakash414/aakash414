@@ -5,10 +5,6 @@
 
   <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" height="200" alt="animated hello"/>
 
-- 🌱 Actively integrating DevOps practices and tooling into my development workflow  
-- 🔰 Passionate about Web3 and exploring decentralized technologies  
-- ❓ Specializing in the MERN stack—always open to collaborative challenges  
-
 - 📫 Reach me at aakashpr975@gmail.com
 
 
