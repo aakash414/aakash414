@@ -1,16 +1,7 @@
 ![Aakash (1)](https://github.com/aakash414/aakash414/assets/67820270/d072d1f9-f8db-44e4-9206-68279c2b68b6)
 
 
-  <div align="left"><h2>Full-Stack developer </h2></div>
-
-  <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" height="200" alt="animated hello"/>
-
-- 📫 Reach me at aakashpr975@gmail.com
-
-
-![](https://komarev.com/ghpvc/?username=aakash414&style=for-the-badge)
-
-## Connect with me  
+<div align="left"><h2>Full-Stack developer </h2></div>
 <div align="left">
 <a href="https://github.com/aakash414" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -22,7 +13,8 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+📫 Reach me at aakashpr975@gmail.com
+
 
 <br/>  
   
@@ -30,7 +22,7 @@
 <div align="center">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,cpp,svelte,solidity,firebase,nodejs,mongodb,express,mysql,postgres&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,vue,html,css,nodejs,cpp,go,python,mongodb,mysql,postgres,redis,docker,aws,gcp,nginx&perline=10" />
   </a>
   </p>
 </div>
