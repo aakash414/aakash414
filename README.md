@@ -32,4 +32,4 @@
  
 ![streaks](https://github-readme-streak-stats-eight.vercel.app/?user=aakash414&theme=dracula&hide_border=true&short_numbers=true)
 
-![Top Langs](https://github-readme-stats-two-gold-27.vercel.app/api/top-langs/?username=aakash414&layout=compact&theme=radical)
+![Top Langs](https://raw.githubusercontent.com/aakash414/github-stats-v2/master/generated/overview.svg#gh-dark-mode-only)
