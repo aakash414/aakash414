@@ -30,6 +30,7 @@
 ## GitHub Stats
 
  
-![streaks](https://github-readme-streak-stats-eight.vercel.app/?user=aakash414&theme=dracula&hide_border=true&short_numbers=true)
-
 ![Top Langs](https://raw.githubusercontent.com/aakash414/github-readme-stats-v2/master/generated/languages.svg#gh-dark-mode-only)
+
+![streaks](https://github-readme-streak-stats-eight.vercel.app/?user=aakash414&theme=whatsapp-dark2&hide_border=true&short_numbers=true)
+
